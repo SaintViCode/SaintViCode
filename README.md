@@ -9,7 +9,7 @@ I mostly work on backend and architecture stuff — **.NET**, **Spring Boot**, a
 
 ---
 
-## 🛠 My Armory (Tools & Tech)
+## My Armory (Tools & Tech)
 
 * **Repeater (Backend):** .NET Core, Spring Boot, Node.js 
 * **Revolver (Languages):** C#, Java, JavaScript, Python 
@@ -18,7 +18,7 @@ I mostly work on backend and architecture stuff — **.NET**, **Spring Boot**, a
 
 ---
 
-## 📜 Journal Entries (Latest Heists)
+## Journal Entries (Latest Heists)
 
 * 🐎 **SiteBuilder Module:** Led the end-to-end design of a multi-tenant builder using Blazor.
 * 🤖 **FuxionMix:** Built an AI-powered pipeline to generate marketing videos with automated copy.
@@ -27,7 +27,7 @@ I mostly work on backend and architecture stuff — **.NET**, **Spring Boot**, a
 
 ---
 
-## 🐎 A Bit About Me (The Outlaw Life)
+## A Bit About Me (The Outlaw Life)
 
 * 🎓 **The Plan:** ~89% of my Software Engineering degree at Cenfotec is done.
 * ☕ **Not a coffee person:** I prefer a strong brew of clean code and good architecture.
