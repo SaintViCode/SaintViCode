@@ -1,4 +1,4 @@
-# Hey there, Boah! 🤠
+# Hey there! 
 
 I'm **Adrián Quirós Sanvicente**, a Software Engineer based in Costa Rica. 
 I’m just a man looking for a better way to write code in a world that’s moving too fast.
